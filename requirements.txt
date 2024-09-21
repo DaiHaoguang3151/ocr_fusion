@@ -1,0 +1,14 @@
+# my env
+# easyocr + tesseractocr + paddleocr + trocr
+
+easyocr==1.7.1
+opencv-python==4.6.0
+paddleocr==2.7.0
+paddlepaddle==2.5.2
+pytesseract==0.3.10
+tesseract==5.3.0
+torch==1.13.1
+transformers==4.30.2
+
+# GOT
+# 参考 https://github.com/Ucas-HaoranWei/GOT-OCR2.0

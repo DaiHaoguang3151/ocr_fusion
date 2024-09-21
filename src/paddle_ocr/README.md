@@ -1,0 +1,1 @@
+在pytorch中使用paddleocr，来源于：https://github.com/frotms/PaddleOCR2Pytorch
